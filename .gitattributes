@@ -1,0 +1,6 @@
+# vendor documents must survive a clone byte for byte.
+# the pdf attacks depend on exact content streams, and line-ending conversion
+# would corrupt them.
+*.pdf binary
+*.eml -text
+*.html -text

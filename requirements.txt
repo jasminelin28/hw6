@@ -1,0 +1,7 @@
+# Campus Customs vendor desk agent (MGT 409 HW6)
+pydantic-ai-slim[openai]==2.55.0
+openai==3.28.0
+python-dotenv==1.2.4
+beautifulsoup4==4.15.0
+pypdf==6.20.0
+tiktoken==0.14.0

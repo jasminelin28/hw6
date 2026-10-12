@@ -1,0 +1,7 @@
+# never commit the real key
+.env
+
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
